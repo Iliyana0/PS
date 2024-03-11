@@ -1,0 +1,14 @@
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\iliyana\source\repos\PS_45_Iliyana\Welcome\obj\Debug\net8.0\ref\Welcome.dll
